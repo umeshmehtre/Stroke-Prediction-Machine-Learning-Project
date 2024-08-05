@@ -13,11 +13,6 @@ This repository contains the code and documentation for a machine learning proje
 5. [Data Visualization](#data-visualization)
 6. [Model Development](#model-development)
 7. [Results](#results)
-8. [Conclusion](#conclusion)
-9. [Installation and Usage](#installation-and-usage)
-10. [File Structure](#file-structure)
-11. [Contributing](#contributing)
-12. [License](#license)
 
 ## Introduction
 
